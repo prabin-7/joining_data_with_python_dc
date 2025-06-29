@@ -34,3 +34,6 @@ filter = ((ridership_cal_stations['station_name'] == 'Wilson') \
 # print(ridership_cal_stations.loc[filter,'rides'])  #print the df with 1 column of rides 
 
 print(type(ridership_cal_stations.loc[filter,'rides'].sum()))  # type = numpy.int64
+
+
+licenses
